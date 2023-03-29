@@ -1,4 +1,4 @@
-package exercises_topic_one;
+package com.exercises.topic_one;
 
 public class Types {
     /**

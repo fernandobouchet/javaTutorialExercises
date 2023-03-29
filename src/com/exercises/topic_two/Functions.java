@@ -1,4 +1,4 @@
-package exercises_topic_two;
+package com.exercises.topic_two;
 
 public class Functions {
     public static void main(String[] args) {
